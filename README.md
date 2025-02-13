@@ -1,32 +1,28 @@
-#IMAGE-GENERATION-USING-COMFY-UI-AND-STABLE-DIFFUSION
+🖼️ IMAGE GENERATION USING COMFYUI & STABLE DIFFUSION
+🚀 AICTE Internship Project | AI: Transformative Learning with TechSaksham
+A joint CSR initiative of Microsoft & SAP
 
-This is my Internship Project as part of AICTE Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP
+📌 Introduction
+This project demonstrates AI-powered image generation using Stable Diffusion and ComfyUI. ComfyUI provides a node-based interface that allows flexible and intuitive workflow design for generating and refining AI-generated images.
 
-This project demonstrates the use of Stable Diffusion and ComfyUI for generating images from text prompts. ComfyUI's node-based interface provides a flexible and powerful way to design and execute complex image generation workflows, making Stable Diffusion more accessible and controllable.
+With Stable Diffusion, we can generate high-quality images from text prompts, and ComfyUI enhances the process by adding greater control, customization, and modularity.
 
-
-
-##🎨 AI Image Generation with Stable Diffusion & ComfyUI
-
-
-###🚀 Overview
-This project explores AI-powered image generation using Stable Diffusion and ComfyUI. By leveraging latent diffusion models (LDMs), we can generate high-quality images from text prompts with fine-grained control over details.
-
-🔹 Why Stable Diffusion?
+🎨 Why Use Stable Diffusion?
 ✅ Open-source & powerful 💡
 ✅ Generates high-resolution images 📸
 ✅ Customizable with LoRA, ControlNet, & IP-Adapters 🎛️
 ✅ Works on consumer GPUs ⚡
 
-🔹 Why ComfyUI?
-✅ Node-based workflow for better control 🛠️
+🛠️ Why Choose ComfyUI?
+✅ Node-based workflow for better control 🔄
 ✅ Supports multi-stage processing 📊
 ✅ Visual, flexible, and modular 🚀
 ✅ Enhances image refinement & customization 🎨
 
-###📌 Features
+🔹 Features
 ✔️ Generate images from text prompts 📝 → 🎨
-✔️ Modify & refine images using ControlNet & LoRA
-✔️ Node-based workflow for intuitive editing 🔄
+✔️ Modify & refine images using ControlNet & LoRA 🖌️
+✔️ Node-based workflow for intuitive editing 🎛️
 ✔️ Batch processing & automation 🔥
 ✔️ Custom fine-tuning for unique styles 🎭
+
